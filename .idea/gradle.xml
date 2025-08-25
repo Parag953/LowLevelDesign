@@ -9,7 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/DesignPatterns" />
+            <option value="$PROJECT_DIR$/LLDSolutions" />
             <option value="$PROJECT_DIR$/MultiThreading" />
+            <option value="$PROJECT_DIR$/Problems" />
           </set>
         </option>
       </GradleProjectSettings>

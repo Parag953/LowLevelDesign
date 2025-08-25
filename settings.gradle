@@ -1,3 +1,5 @@
 rootProject.name = 'LowLevelDesign'
 include 'DesignPatterns'
 include 'MultiThreading'
+include 'Problems'
+include 'LLDSolutions'
